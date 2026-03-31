@@ -44,7 +44,7 @@ MODEL_BACKEND   = 'gemini'       # 'ollama' | 'gemini' | 'openai'
 OLLAMA_BASE_URL = 'http://localhost:11434'
 VISION_MODEL    = 'llava'
 TEXT_MODEL      = 'llama3.1:8b'
-GEMINI_API_KEY  = 'AIzaSyAjTGdGqTOoN0OOoCYEyOmPjkhJPk9Skhc'
+GEMINI_API_KEY  = 'enter your api key'
 OPENAI_API_KEY  = ''
 
 PAGES_PER_DOC   = 1      # 2 pages per doc to avoid timeouts
