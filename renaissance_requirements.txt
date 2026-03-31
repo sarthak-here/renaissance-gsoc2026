@@ -1,0 +1,9 @@
+google-genai
+pymupdf==1.23.8
+pillow
+opencv-python
+requests
+jiwer
+python-docx
+rich
+numpy
